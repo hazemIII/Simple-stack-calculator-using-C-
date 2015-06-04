@@ -1,0 +1,6 @@
+in cmd : 
+a3.exe 15 + ( 4 / 2 x 3 )
+OUTPUT: 21.00
+in treminal : 
+./a3 15 + ( 4 / 2 x 3 )
+OUTPUT: 21.00
